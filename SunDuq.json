@@ -12,7 +12,7 @@
     "quality": "1080p",
     "baseUrl": "https://google.com/",
     "searchBaseUrl": "https://api.themoviedb.org/3/search/multi?api_key=9801b6b0548ad57581d111ea690c85c8&query=%s&include_adult=false",
-    "scriptUrl": "https://raw.githubusercontent.com/M0SAD67/Sunduq/refs/heads/main/SunDuq.js",
+    "scriptUrl": "https://raw.githubusercontent.com/M0SAD67/Sunduq/refs/heads/main/test.js",
     "type": "anime/shows/movies",
     "downloadSupport": false,
     "asyncJS": true,
